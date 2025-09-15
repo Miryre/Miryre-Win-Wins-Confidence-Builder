@@ -16,7 +16,7 @@ const WelcomeCard = () => {
                     <h3 className='font-semibold text-gray-800'>Earn Rewards</h3>
                 </div>
             </div>
-{/* Button */}
+{/* Button here */}
 
             <div className='text-center'>
                 <button className='bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-6 rounded-lg'>
